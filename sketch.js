@@ -1,5 +1,5 @@
 function abc() {
-
+    console.log("make it beautiful")
 }
 
 function cde() {
