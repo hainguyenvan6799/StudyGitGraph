@@ -13,3 +13,7 @@ function multiplePendulum() {
 function addStyle() {
     console.log("this is green");
 }
+
+function checkmaster() {
+    
+}
