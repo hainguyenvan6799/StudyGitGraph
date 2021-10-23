@@ -9,3 +9,7 @@ function cde() {
 function multiplePendulum() {
     
 }
+
+function addStyle() {
+    console.log("this is green");
+}
