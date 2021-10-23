@@ -10,6 +10,11 @@ function multiplePendulum() {
     
 }
 
-function testGitPullMaster() {
-    console.log("Git pull master remote server");
+function addStyle() {
+    console.log("this is green");
 }
+
+function newAbc() {
+    console.log("new function")
+}
+
