@@ -10,6 +10,6 @@ function multiplePendulum() {
     
 }
 
-function addStyle() {
-    console.log("this is green");
+function testGitPullMaster() {
+    console.log("Git pull master remote server");
 }
