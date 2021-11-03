@@ -14,6 +14,7 @@ function addStyle() {
     console.log("this is green");
 }
 
+
 function checkmaster() {
 
 }
@@ -25,3 +26,8 @@ function branchTest2() {
 function testRevert() {
     
 }
+
+function newAbc() {
+    console.log("new function")
+}
+
