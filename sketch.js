@@ -23,5 +23,5 @@ function branchTest2() {
 }
 
 function testRevert() {
-    
+    console.log("add text to testRevert");
 }
